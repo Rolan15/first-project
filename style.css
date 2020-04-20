@@ -20,16 +20,21 @@ body {
 	width: 183px;
 	height: 32px;
 	position: absolute;
+	margin-top: 30px;
+	margin-left: 64px;
 }
 
 .header_title {
 	width: 730px;
 	align-items: center;
+	margin-left: 64px;
 }
 
 .header_subtitle {
 	width:  388px;
 	position: absolute;
+	margin-left: 64px;
+	margin-bottom: 30px;
 }
 
 .header_link {
@@ -49,6 +54,7 @@ body {
 	position: absolute;
 	background-color: #2f80ed;
 	z-index: 1;
+	margin-top: 64px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
